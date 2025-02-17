@@ -1,0 +1,26 @@
+1)Accept 5 subjects(hindi, english, math, physics, chemistry) marks out of 500 of a student from user and display grade of that student on basis of following condition
+ a)If percentage is 85 or above 85 then Excellent
+ b)If percentage is 70 or above 70 and less than 85 then Very good
+ c)If percentage is 55 or above 55 and less than 70 then Good
+ d)If percentage is 40 or above 40 and less than 55 then Poor
+ e)If percentage is less than 40 then Very poor
+
+2)Accept four numbers from user and display largest one
+
+3)Accept age of the user and display following message on basis of condition
+  If age is less than 18 then display "You must be at least 18 years old to donate blood"
+  If age is 18 or above 18 then accept weight of the user
+  If weight is less than 50.0 then display "You must weigh at least 50 kilograms to donate blood"
+  If weight is 50.0 or above 50.0 then display "You are eligible to donate blood"
+
+4)Accept an integer value in variable n
+If n is odd, print Weird
+If n is even and in the inclusive range of 2 to 5, print Not Weird
+If n is even and in the inclusive range of 6 to 20, print Weird
+If n is even and greater than 20, print Not Weird
+
+5)Accept total income of user and calculate income tax. Income tax slab is as follows
+  a)Up to 250000:no tax
+  b)Between 250001 to 500000:5% on taxable income exceeding 250000
+  c)Between 500001 to 1000000:Tax between 250001 to 500000+20% on taxable income exceeding 500000
+  d)Above 1000000:Tax between 250001 to 500000+Tax between 500001 to 1000000+30% on taxable income exceeding 1000000

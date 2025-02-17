@@ -1,0 +1,12 @@
+1)Accept a number from user and display all factors of that number
+2)Accept two numbers from user and display LCM as well as HCF of both numbers
+3)Display following series
+  a)1 1 2 3 5 8 13 21 34 55
+  b)1 0 2 1 3 2 4 3 5 4 6 5
+  c)1 2 4 7 11 16 22 29 37 46 56
+  d)99 80 63 48 35 24 15 8 3 0
+  e)1 4 27 256 3125
+  f)1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1
+  g)A B D G K P V
+4)Print all alphabets in uppercase
+5)Print all consonant(Alphabets that are not vowels) in uppercase

@@ -1,0 +1,26 @@
+1:Define four methods inside a class
+  a)First method to perform addition on argument and display result
+  b)First method to perform subtraction on argument and display result
+  c)First method to perform multiplication on argument and display result
+  d)First method to perform division on argument and display result
+All methods must have two int type argument and must be called by main method
+
+2)Define a parameterized method to convert Indian rupees into American dollar
+  Method must have one int type argument to keep Indian rupees
+  Method must return converted value
+  Write command to call that method in main and display return value
+
+3)Write commands inside main method to calculate profit in percentage
+  Declare two variable to keep cost price of product and sell price of product
+  Must display profit in percentage
+
+4)Write commands inside main method to find total marks of 5 subjects (Hindi, English, Math, Physics, Chemistry).Find percentage also(out of 500)
+  Must display both percentage and total marks
+
+5)Write commands inside main method to perform following tasks
+  a)Declare 4 int type variable and initialize(assign value) these variables
+  b)Assign initial value of first variable to the second variable
+  c)Assign initial value of second variable to the third variable
+  d)Assign initial value of third variable to the fourth variable
+  e)Assign initial value of fourth variable to the first variable
+  
